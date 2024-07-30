@@ -16,14 +16,17 @@ Sơ đồ sản phẩm
 
 - Nút 1: Cập nhật vân tay và quá trình xử lý
 
-![image](https://github.com/user-attachments/assets/1b8e0e64-2304-4d54-8c34-cc012ef3dae2)
-
 
 Truy cập vào địa chỉ trên màn hình LCD để nhập mã sinh viên tương ứng với mẫu vân tay
 
 ![image](https://github.com/user-attachments/assets/44702c12-afbc-4741-aae4-1d75e5ceeb83)
 
 ![image](https://github.com/user-attachments/assets/afa35337-980c-431f-9338-3d35005a5adf)
+
+
+Sau khi nhập mã sinh viên, thiết bị sẽ chuyển sang trạng thái lấy mẫu vân tay
+
+![image](https://github.com/user-attachments/assets/1b8e0e64-2304-4d54-8c34-cc012ef3dae2)
 
 ![image](https://github.com/user-attachments/assets/95191049-733c-47df-91de-81b08d1daf82)
 
